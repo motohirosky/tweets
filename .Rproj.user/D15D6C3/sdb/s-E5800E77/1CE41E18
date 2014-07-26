@@ -1,0 +1,17 @@
+{
+    "contents" : "---\ntitle: \"tweetsをデータベースで管理する(授業用)\"\nauthor: \"石田 基広\"\ndate: \"2014年07月26日\"\noutput: html_document\n---\n",
+    "created" : 1406355898494.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3468436496",
+    "id" : "1CE41E18",
+    "lastKnownWriteTime" : 1406356627,
+    "path" : "~/Dropbox/R/RStudio/tweets/tweets.Rmd",
+    "project_path" : "tweets.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
