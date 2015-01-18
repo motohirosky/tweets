@@ -1,6 +1,6 @@
 ---
 title: "tweetsをデータベースで管理する(授業用)"
-author: "石田 基広"
+author: ""
 date: "2014年07月26日"
 output: html_document
 ---
